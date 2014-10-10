@@ -1,0 +1,11 @@
+本项目是系统“学问”的代码文件
+
+包括以下内容：
+	
+	开发相关文档，见 doc 目录
+	
+	代码文件，见 Java Resources
+	
+	web 前台文件， 见 WebContent
+	
+	配置文件，前台相关见 WebContent， 后台相关见 Java Resources
